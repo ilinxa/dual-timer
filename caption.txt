@@ -1,0 +1,21 @@
+⏱️ I built a chess-style work timer — and it’s changed how I measure productivity.
+
+Instead of guessing how long I worked, I now actually know.
+✅ Green = Focused work
+⏸️ Red = Breaks, distractions, pauses
+
+Every time I get distracted, I switch the timer — just like in chess.
+When I come back? Switch back.
+
+At the end of the day, I see exactly how much time I spent in deep work — no fluff, no assumptions.
+
+💡 Built with pure HTML, CSS & JS.
+🖤 Sleek dark UI with animated glow & background blur.
+⚡ Simple. Honest. Effective.
+
+Because real productivity isn’t about being busy —
+it’s about being focused.
+
+🔗 GitHub repo in the link (for devs who care about their time)
+
+#ProductivityTool #DeveloperTools #FocusApp #WorkTimer #PomodoroAlternative #WebDev #SelfTracking #TimeManagement #BuildInPublic #CodeTips #Frontend #PersonalProject #NoDistractions #DeepWork
